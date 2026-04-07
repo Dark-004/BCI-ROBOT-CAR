@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "343196510827",
+    "firebase_url": "https://neurodrive-android-default-rtdb.firebaseio.com",
+    "project_id": "neurodrive-android",
+    "storage_bucket": "neurodrive-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343196510827:android:9b92c5eb527751b0a09f2e",
+        "android_client_info": {
+          "package_name": "com.neurodrive.smartcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343196510827-30r9q36j9q4tfrvi1mi31sacolrefark.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neurodrive.smartcar",
+            "certificate_hash": "c42f5bb2354951718c2e1cbbe078aaa86b779338"
+          }
+        },
+        {
+          "client_id": "343196510827-obr2d8jmedgvnfvq254tc01trhji1q4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnJGJ0tvlXuRY-S-zAbL-vyZ1EQGkZXMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343196510827-obr2d8jmedgvnfvq254tc01trhji1q4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
